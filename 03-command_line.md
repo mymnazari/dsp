@@ -59,7 +59,11 @@ ls -t: list files and directories by the time they were last modified
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -lq  
+ls -lr  
+ls -m  
+ls -g  
+ls -lx  
 
 ---
 
