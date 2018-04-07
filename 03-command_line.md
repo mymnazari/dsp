@@ -46,7 +46,12 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls : lists the files and folders in the current directory  
+ls -a : lists all contents of a directory, including hidden files and directories  
+ls -l: lists all contents in long format  
+ls -lh: list long format with readable file size  
+ls -lah: list all including the hidden files in long format with readable file size   
+ls -t: list files and directories by the time they were last modified    
 
 ---
 
