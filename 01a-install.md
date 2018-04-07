@@ -57,7 +57,7 @@ In the Terminal:
 
 `python3 --version`
 
->> Python 3.6.1
+>> Python 3.6.4 :: Anacoda, Inc.
 
  
 
